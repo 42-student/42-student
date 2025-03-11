@@ -1,23 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">student @ 42Berlin</h3>
+# Hi there, I'm Sebastian! 👋
 
-- 🌱 I’m currently learning **Python** **HTML** and **CSS**
+🎓 I'm currently studying **Software Engineering** at **42 Berlin**.
+🚀 I’m passionate about building things that work (eventually) and learning from the inevitable bugs along the way.
+💡 I dabble in low-level programming, system design, and algorithms, basically, I enjoy making computers suffer with efficiency. I also do some high-level programming when I feel like giving myself a break.
+🤖 As for AI, I’d love to learn more about it, mostly because everyone won’t stop talking about it.
+💰 Crypto and Blockchain? Well, I hear it can make you rich, so why not give it a shot before the next market crash?
+📚 Always learning and exploring new things in the world of **computer science**.
 
-- 💬 Ask me about... **how is my life :)**
+---
 
-<p align="left">
+## 🛠️ Languages & Tools:
+Here’s my tech toolbox, small but mighty:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-   </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=42-student&show_icons=true&locale=en&layout=compact" alt="42-student" /></p>
+## 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42-student&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8&count_private=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🌌 A Bit of...
+- **Longest Quest**: Mastering the art of pointers in C without summoning a segmentation fault demon.
+- **Favorite Algorithm**: Bubble Sort, because sometimes you just need to watch the world sort slowly.
+- **Dream Project**: A self-healing Docker container that fixes its own bugs (a guy can dream, right?).
+
+  I’m also experimenting with **Linux** to feel like a terminal wizard.
+
+---
+
+## 🤣 Do you know...
+
+> **Why I prefer dark mode?**
+>
+> Because **the light at the end of the tunnel is still compiling**! 🐛😂
+
+---
+
+### 🔗 Connect with Me:
+🌐 LinkedIn: [Sebastian](https://linkedin.com/in/sebastian-marginean/)  
+💬 Let's talk about **memory leaks, segmentation faults, and why Vim is better than Emacs**! 😆
