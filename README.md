@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">student @ 42Berlin</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** **HTML** and **CSS**
 
-- 💬 Ask me about **anything you like :)**
+- 💬 Ask me about... **how is my life :)**
 
 <p align="left">
 </p>
