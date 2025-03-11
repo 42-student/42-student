@@ -5,7 +5,7 @@
 💡 I dabble in low-level programming, system design, and algorithms, basically, I enjoy making computers suffer with efficiency. I also do some high-level programming when I feel like giving myself a break.
 🤖 As for AI, I’d love to learn more about it, mostly because everyone won’t stop talking about it.
 💰 Crypto and Blockchain? Well, I hear it can make you rich, so why not give it a shot before the next market crash?
-📚 Always learning and exploring new things in the world of **computer science**.
+#### 📚 Always learning and exploring new things in the world of **computer science**.
 
 ---
 
@@ -38,14 +38,6 @@ Here’s my tech toolbox, small but mighty:
 - **Dream Project**: A self-healing Docker container that fixes its own bugs (a guy can dream, right?).
 
   I’m also experimenting with **Linux** to feel like a terminal wizard.
-
----
-
-## 🤣 Do you know...
-
-> **Why I prefer dark mode?**
->
-> Because **the light at the end of the tunnel is still compiling**! 🐛😂
 
 ---
 
