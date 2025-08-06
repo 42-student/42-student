@@ -35,7 +35,7 @@ Here’s my tech toolbox, small but mighty:
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42-student&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=12&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42-student&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8&count_private=true" alt="Top Langs" />
 </p>
 
 ---
