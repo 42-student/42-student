@@ -1,4 +1,9 @@
-# Hi there, I'm Sebastian! 👋
+<p align="center">
+  <img src="images/face_visuals.gif" alt="Faces GIF" />
+</p>
+
+
+# Hello, World!
 
 🎓 I'm currently studying **Software Engineering** at **42 Berlin**.
 🚀 I’m passionate about building things that work (eventually) and learning from the inevitable bugs along the way.
@@ -51,4 +56,4 @@ Here’s my tech toolbox, small but mighty:
 
 ### 🔗 Connect with Me:
 🌐 LinkedIn: [Sebastian](https://linkedin.com/in/sebastian-marginean/)  
-💬 Let's talk about **memory leaks, segmentation faults, and why Vim is better than Emacs**! 😆
+💬 Let's talk about **memory leaks, segmentation faults and why Vim is better than Emacs**! 😆
