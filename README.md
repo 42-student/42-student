@@ -11,6 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <passion.h>
+#include <growth.h>
 
 struct Coder {
     char *location = "42 Berlin";
@@ -53,6 +54,12 @@ void main() {
         invest_in_blockchain();
         printf("Chasing crypto riches before *Segmentation Fault: Market Crash*\n");
     }
+
+    // new chapter: Codam Amsterdam
+    enroll("Codam", "Advanced Curriculum");
+    specialize_in("Cybersecurity");
+    specialize_in("Artificial Intelligence");
+    printf("Currently pursuing advanced studies at Codam Amsterdam, focusing on Cybersecurity and AI.\n");
 }
 ```
 
