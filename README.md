@@ -93,12 +93,14 @@ Here’s my tech toolbox:
 
 ---
 
+<!--
 ## 🔥 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42-student&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8&count_private=true" alt="Top Langs" />
 </p>
 
 ---
+-->
 
 ## 🌌 More Stuff...
 - **Longest Quest**: Mastering the art of pointers in C without summoning a segmentation fault demon.
