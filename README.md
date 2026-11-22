@@ -48,18 +48,13 @@ void main() {
         dive_into_AI();
         printf("Learning AI to decode the hype...\n");
     }
-    
-    // Crypto gamble protocol
-    if (market_status("Crypto") == BOOM) {
-        invest_in_blockchain();
-        printf("Chasing crypto riches before *Segmentation Fault: Market Crash*\n");
-    }
 
     // new chapter: Codam Amsterdam
     enroll("Codam", "Advanced Curriculum");
+    specialize_in("Systems Architecture");
+    specialize_in("Networking");
     specialize_in("Cybersecurity");
-    specialize_in("Artificial Intelligence");
-    printf("Currently pursuing advanced studies at Codam Amsterdam, focusing on Cybersecurity and AI.\n");
+    printf("Interested in understanding systems from the ground up and developing practical technical skills.\n");
 }
 ```
 
