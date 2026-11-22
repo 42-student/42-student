@@ -98,7 +98,7 @@ Here’s my tech toolbox:
 ## 🌌 More Stuff...
 - **Longest Quest**: Mastering the art of pointers in C without summoning a segmentation fault demon.
 - **Favorite Algorithm**: Bubble Sort, because sometimes you just need to watch the world sort slowly.
-- **Dream Project**: A self-healing Docker container that fixes its own bugs (a guy can dream, right?).
+- **Dream Project**: "Segfault Whisperer", a debugger that explains your crash and judges you silently.
 
 ---
 
